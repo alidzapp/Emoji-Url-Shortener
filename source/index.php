@@ -11,7 +11,7 @@ $_SESSION["shortlink"] = "";
 <title>[🔬] 🔗 Shortener</title>
 <meta name=theme-color content=#a10>
 <meta name="keyword" content="Stefano, Vazzoler, url, shortener, short, link, rocket">
-<link href=/cdn/css/u/b003.min.css rel=stylesheet>
+<link href=cdn/css/b003.min.css rel=stylesheet>
 </head>
 <body>
 <main>
@@ -35,8 +35,8 @@ $_SESSION["shortlink"] = "";
 </div>
 </main>
 <script src="https://www.google.com/recaptcha/api.js"></script>
-<script src="/cdn/js/jquery.min.js"></script>
-<script src=/cdn/js/sjcl.min.js></script>
-<script src="/cdn/js/u/b003.min.js"></script>
+<script src="cdn/js/jquery.min.js"></script>
+<script src=cdn/js/sjcl.min.js></script>
+<script src="cdn/js/u/b003.min.js"></script>
 </body>
 </html>
